@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "name": "Leather Wallet",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-C5sIDwySYfB4ZxEXaAEEJ4dpahnt3VKjoA&s",
+        "price": 49.99,
+        "category": "Accessories",
+        "popularity": 4.2,
+        "description": "Genuine leather wallet with multiple card slots and a sleek design.",
+        "ratings": 320
+    },
+    {
+        "id": 2,
+        "name": "Gaming Mouse",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGENQfysRcNpGrsHt1xOa1gui3liXl9py9A&s",
+        "price": 79.99,
+        "category": "Accessories",
+        "popularity": 4.6,
+        "description": "Ergonomic gaming mouse with customizable buttons and RGB lighting.",
+        "ratings": 150
+    },
+    {
+        "id": 3,
+        "name": "Men's T-shirt",
+        "image": "https://img.drz.lazcdn.com/static/bd/p/517efb28c247640c9b8f848b047016c8.jpg_720x720q80.jpg",
+        "price": 29.99,
+        "category": "Clothing",
+        "popularity": 4.1,
+        "description": "Comfortable cotton t-shirt available in various colors and sizes.",
+        "ratings": 220
+    },
+    {
+        "id": 4,
+        "name": "Women's Jeans",
+        "image": "https://cdn.thewirecutter.com/wp-content/media/2023/10/womensjeans-2048px-04346.jpg?auto=webp&quality=75&width=1024",
+        "price": 49.99,
+        "category": "Clothing",
+        "popularity": 4.4,
+        "description": "Slim-fit jeans with stretch fabric for all-day comfort.",
+        "ratings": 310
+    },
+    {
+        "id": 5,
+        "name": "Hoodie Sweatshirt",
+        "image": "https://www.thebtclub.com/cdn/shop/products/coral-pink-hooded-sweatshirt-305729_4488a110-5420-4f9b-8d73-231aeb9d799a_700x.jpg?v=1696655495",
+        "price": 39.99,
+        "category": "Clothing",
+        "popularity": 4.3,
+        "description": "Soft and warm hoodie perfect for casual outings.",
+        "ratings": 160
+    },
+    {
+        "id": 6,
+        "name": "Gaming Headset",
+        "image": "https://via.placeholder.com/150",
+        "price": 89.99,
+        "category": "Accessories",
+        "popularity": 4.7,
+        "description": "Noise-canceling gaming headset with surround sound and microphone.",
+        "ratings": 200
+    },
+    {
+        "id": 7,
+        "name": "Coffee Maker",
+        "image": "https://via.placeholder.com/150",
+        "price": 99.99,
+        "category": "Home Appliances",
+        "popularity": 4.4,
+        "description": "Programmable coffee maker with multiple brew settings.",
+        "ratings": 110
+    },
+    {
+        "id": 8,
+        "name": "Blender",
+        "image": "https://via.placeholder.com/150",
+        "price": 59.99,
+        "category": "Home Appliances",
+        "popularity": 4.2,
+        "description": "Powerful blender for smoothies, soups, and more.",
+        "ratings": 180
+    },
+    {
+        "id": 9,
+        "name": "Kitchen Knife Set",
+        "image": "https://via.placeholder.com/150",
+        "price": 149.99,
+        "category": "Home Appliances",
+        "popularity": 4.8,
+        "description": "High-quality stainless steel knives for all kitchen tasks.",
+        "ratings": 260
+    },
+    {
+        "id": 10,
+        "name": "Desk Lamp",
+        "image": "https://via.placeholder.com/150",
+        "price": 39.99,
+        "category": "Home Decor",
+        "popularity": 4.1,
+        "description": "LED desk lamp with adjustable brightness and color temperature.",
+        "ratings": 90
+    },
+    {
+        "id": 11,
+        "name": "Yoga Mat",
+        "image": "https://via.placeholder.com/150",
+        "price": 25.99,
+        "category": "Sports",
+        "popularity": 4.6,
+        "description": "Non-slip yoga mat for comfort during exercise.",
+        "ratings": 140
+    },
+    {
+        "id": 12,
+        "name": "Running Shoes",
+        "image": "https://via.placeholder.com/150",
+        "price": 69.99,
+        "category": "Sports",
+        "popularity": 4.3,
+        "description": "Comfortable running shoes with excellent support and cushioning.",
+        "ratings": 210
+    },
+    {
+        "id": 13,
+        "name": "Tent",
+        "image": "https://via.placeholder.com/150",
+        "price": 129.99,
+        "category": "Sports",
+        "popularity": 4.4,
+        "description": "Waterproof 2-person tent perfect for camping trips.",
+        "ratings": 100
+    },
+    {
+        "id": 14,
+        "name": "Electric Toothbrush",
+        "image": "https://via.placeholder.com/150",
+        "price": 49.99,
+        "category": "Health & Beauty",
+        "popularity": 4.7,
+        "description": "Electric toothbrush with multiple cleaning modes and timer.",
+        "ratings": 350
+    },
+    {
+        "id": 15,
+        "name": "Scented Candle",
+        "image": "https://via.placeholder.com/150",
+        "price": 19.99,
+        "category": "Home Decor",
+        "popularity": 4.2,
+        "description": "Hand-poured soy wax candle with a relaxing lavender scent.",
+        "ratings": 60
+    },
+    {
+        "id": 16,
+        "name": "Wall Art",
+        "image": "https://via.placeholder.com/150",
+        "price": 39.99,
+        "category": "Home Decor",
+        "popularity": 4.3,
+        "description": "Abstract wall art print to enhance your living space.",
+        "ratings": 130
+    },
+    {
+        "id": 17,
+        "name": "Mini Fridge",
+        "image": "https://via.placeholder.com/150",
+        "price": 119.99,
+        "category": "Home Appliances",
+        "popularity": 4.5,
+        "description": "Compact refrigerator perfect for dorm rooms or offices.",
+        "ratings": 180
+    },
+    {
+        "id": 18,
+        "name": "Smart Thermostat",
+        "image": "https://via.placeholder.com/150",
+        "price": 149.99,
+        "category": "Home Appliances",
+        "popularity": 4.6,
+        "description": "Wi-Fi-enabled thermostat for remote control and energy savings.",
+        "ratings": 240
+    },
+    {
+        "id": 19,
+        "name": "Weighted Blanket",
+        "image": "https://via.placeholder.com/150",
+        "price": 99.99,
+        "category": "Home Decor",
+        "popularity": 4.5,
+        "description": "Soft weighted blanket that helps reduce anxiety and improve sleep.",
+        "ratings": 220
+    },
+    {
+        "id": 20,
+        "name": "Bean Bag Chair",
+        "image": "https://via.placeholder.com/150",
+        "price": 79.99,
+        "category": "Home Decor",
+        "popularity": 4.4,
+        "description": "Comfortable and stylish bean bag chair for your living room or office.",
+        "ratings": 180
+    },
+    {
+        "id": 21,
+        "name": "Hiking Backpack",
+        "image": "https://via.placeholder.com/150",
+        "price": 69.99,
+        "category": "Sports",
+        "popularity": 4.7,
+        "description": "Durable hiking backpack with multiple compartments for storage.",
+        "ratings": 200
+    },
+    {
+        "id": 22,
+        "name": "Electric Kettle",
+        "image": "https://via.placeholder.com/150",
+        "price": 39.99,
+        "category": "Home Appliances",
+        "popularity": 4.6,
+        "description": "Fast-boiling electric kettle with automatic shut-off feature.",
+        "ratings": 160
+    },
+    {
+        "id": 23,
+        "name": "Knitted Throw Blanket",
+        "image": "https://via.placeholder.com/150",
+        "price": 45.99,
+        "category": "Home Decor",
+        "popularity": 4.3,
+        "description": "Cozy and stylish knitted throw blanket for your couch or bed.",
+        "ratings": 110
+    },
+    {
+        "id": 24,
+        "name": "Folding Lounge Chair",
+        "image": "https://via.placeholder.com/150",
+        "price": 59.99,
+        "category": "Sports",
+        "popularity": 4.5,
+        "description": "Portable folding chair perfect for camping or outdoor events.",
+        "ratings": 140
+    },
+    {
+        "id": 25,
+        "name": "Luxe Bathrobe",
+        "image": "https://via.placeholder.com/150",
+        "price": 79.99,
+        "category": "Health & Beauty",
+        "popularity": 4.8,
+        "description": "Ultra-soft and comfortable bathrobe made from Egyptian cotton.",
+        "ratings": 250
+    },
+    {
+        "id": 26,
+        "name": "Leather Messenger Bag",
+        "image": "https://via.placeholder.com/150",
+        "price": 129.99,
+        "category": "Accessories",
+        "popularity": 4.4,
+        "description": "Stylish leather messenger bag with adjustable shoulder strap.",
+        "ratings": 180
+    },
+    {
+        "id": 27,
+        "name": "Outdoor Picnic Blanket",
+        "image": "https://via.placeholder.com/150",
+        "price": 34.99,
+        "category": "Sports",
+        "popularity": 4.3,
+        "description": "Waterproof outdoor blanket perfect for picnics and beach outings.",
+        "ratings": 150
+    },
+    {
+        "id": 28,
+        "name": "Customizable Wall Clock",
+        "image": "https://via.placeholder.com/150",
+        "price": 49.99,
+        "category": "Home Decor",
+        "popularity": 4.2,
+        "description": "Personalized wall clock with your own design or photos.",
+        "ratings": 90
+    },
+    {
+        "id": 29,
+        "name": "Memory Foam Pillow",
+        "image": "https://via.placeholder.com/150",
+        "price": 39.99,
+        "category": "Health & Beauty",
+        "popularity": 4.6,
+        "description": "Supportive memory foam pillow that molds to your neck and head.",
+        "ratings": 210
+    },
+    {
+        "id": 30,
+        "name": "Portable Hammock",
+        "image": "https://via.placeholder.com/150",
+        "price": 69.99,
+        "category": "Sports",
+        "popularity": 4.5,
+        "description": "Lightweight portable hammock for camping or backyard relaxation.",
+        "ratings": 180
+    },
+    {
+        "id": 31,
+        "name": "Cotton Throw Pillow",
+        "image": "https://via.placeholder.com/150",
+        "price": 29.99,
+        "category": "Home Decor",
+        "popularity": 4.3,
+        "description": "Soft cotton throw pillow with decorative pattern for your sofa.",
+        "ratings": 160
+    },
+    {
+        "id": 32,
+        "name": "Shoe Organizer",
+        "image": "https://via.placeholder.com/150",
+        "price": 19.99,
+        "category": "Home Appliances",
+        "popularity": 4.1,
+        "description": "Stackable shoe organizer to keep your footwear neatly stored.",
+        "ratings": 120
+    },
+    {
+        "id": 33,
+        "name": "Camping Lantern",
+        "image": "https://via.placeholder.com/150",
+        "price": 29.99,
+        "category": "Sports",
+        "popularity": 4.2,
+        "description": "Battery-operated camping lantern for outdoor adventures.",
+        "ratings": 170
+    },
+    {
+        "id": 34,
+        "name": "Portable Cooler",
+        "image": "https://via.placeholder.com/150",
+        "price": 79.99,
+        "category": "Sports",
+        "popularity": 4.5,
+        "description": "Insulated portable cooler to keep food and drinks cold.",
+        "ratings": 220
+    },
+    {
+        "id": 35,
+        "name": "Decorative Vase",
+        "image": "https://via.placeholder.com/150",
+        "price": 39.99,
+        "category": "Home Decor",
+        "popularity": 4.3,
+        "description": "Elegant decorative vase for your home or office.",
+        "ratings": 110
+    },
+    {
+        "id": 36,
+        "name": "Portable Blender",
+        "image": "https://via.placeholder.com/150",
+        "price": 49.99,
+        "category": "Home Appliances",
+        "popularity": 4.4,
+        "description": "Compact and portable blender for smoothies and shakes.",
+        "ratings": 140
+    },
+    {
+        "id": 37,
+        "name": "Wool Scarf",
+        "image": "https://via.placeholder.com/150",
+        "price": 39.99,
+        "category": "Clothing",
+        "popularity": 4.5,
+        "description": "Cozy wool scarf to keep you warm in the winter.",
+        "ratings": 250
+    },
+    {
+        "id": 38,
+        "name": "Camping Chair",
+        "image": "https://via.placeholder.com/150",
+        "price": 49.99,
+        "category": "Sports",
+        "popularity": 4.6,
+        "description": "Foldable and portable camping chair for outdoor relaxation.",
+        "ratings": 230
+    },
+    {
+        "id": 39,
+        "name": "Wicker Basket",
+        "image": "https://via.placeholder.com/150",
+        "price": 29.99,
+        "category": "Home Decor",
+        "popularity": 4.2,
+        "description": "Rustic wicker basket for storage or decorative purposes.",
+        "ratings": 120
+    },
+    {
+        "id": 40,
+        "name": "Cotton Bath Towel Set",
+        "image": "https://via.placeholder.com/150",
+        "price": 49.99,
+        "category": "Health & Beauty",
+        "popularity": 4.4,
+        "description": "Set of soft, absorbent cotton bath towels.",
+        "ratings": 180
+    }
+]
