@@ -43,7 +43,7 @@
     {
         "id": 2,
         "name": "Gaming Mouse",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGENQfysRcNpGrsHt1xOa1gui3liXl9py9A&s",
+        "image": "https://thumbs.dreamstime.com/b/computer-mouse-sits-vibrant-orange-background-showcasing-photobashing-technique-light-aquamarine-magenta-color-283789152.jpg",
         "price": 79.99,
         "category": "Accessories",
         "popularity": 4.6,
@@ -53,7 +53,7 @@
     {
         "id": 6,
         "name": "Gaming Headset",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://media.wired.com/photos/667e093a26ae833a59457185/16:9/w_2000,h_1125,c_limit/Focal%20Bathys%20Headphones%20Abstract%20Background%20SOURCE%20Amazon.jpg",
         "price": 89.99,
         "category": "Accessories",
         "popularity": 4.7,
@@ -63,7 +63,7 @@
     {
         "id": 7,
         "name": "Coffee Maker",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://assets.epicurious.com/photos/63fe55ccd42409303d652a40/3:2/w_4998,h_3332,c_limit/DeLonghi_TrueBrew-review-HERO_022323_14264_VOG_final.jpg",
         "price": 99.99,
         "category": "Home Appliances",
         "popularity": 4.4,
@@ -73,7 +73,7 @@
     {
         "id": 8,
         "name": "Blender",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://cdn.thewirecutter.com/wp-content/media/2022/05/personalblenders-2048px-8980.jpg",
         "price": 59.99,
         "category": "Home Appliances",
         "popularity": 4.2,
@@ -83,7 +83,7 @@
     {
         "id": 9,
         "name": "Kitchen Knife Set",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://www.shutterstock.com/image-photo/woman-magnetic-holder-knives-hanging-260nw-2053123130.jpg",
         "price": 149.99,
         "category": "Home Appliances",
         "popularity": 4.8,
@@ -93,7 +93,7 @@
     {
         "id": 10,
         "name": "Desk Lamp",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://amoslighting.co.uk/cdn/shop/files/nkuku-sengol-recycled-glass-desk-lamp-antique-brass-amos-lighting-home.jpg?v=1724238665&width=1200",
         "price": 39.99,
         "category": "Home Decor",
         "popularity": 4.1,
@@ -103,7 +103,7 @@
     {
         "id": 11,
         "name": "Yoga Mat",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://www.manduka.com/cdn/shop/files/begin_reason_to_buy_03.jpg?v=1707371874&width=1500",
         "price": 25.99,
         "category": "Sports",
         "popularity": 4.6,
@@ -113,7 +113,7 @@
     {
         "id": 12,
         "name": "Running Shoes",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://agilept.com/wp-content/uploads/2024/01/Choosing-Running-Shoes.jpg",
         "price": 69.99,
         "category": "Sports",
         "popularity": 4.3,
@@ -123,7 +123,7 @@
     {
         "id": 13,
         "name": "Tent",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://png.pngtree.com/thumb_back/fh260/background/20230804/pngtree-night-lights-on-the-outside-of-a-large-tent-set-up-image_12958698.jpg",
         "price": 129.99,
         "category": "Sports",
         "popularity": 4.4,
@@ -133,7 +133,7 @@
     {
         "id": 14,
         "name": "Electric Toothbrush",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://png.pngtree.com/thumb_back/fh260/background/20231005/pngtree-basic-toothbrush-vs-innovative-electric-toothbrush-3d-rendering-on-a-white-image_13553885.png",
         "price": 49.99,
         "category": "Health & Beauty",
         "popularity": 4.7,
@@ -143,7 +143,7 @@
     {
         "id": 15,
         "name": "Scented Candle",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://img.freepik.com/premium-photo/scented-candles-roses-white-table-against-pink-background_185193-24919.jpg",
         "price": 19.99,
         "category": "Home Decor",
         "popularity": 4.2,
@@ -153,7 +153,7 @@
     {
         "id": 16,
         "name": "Wall Art",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://m.media-amazon.com/images/I/71S5GHUuEkL.jpg",
         "price": 39.99,
         "category": "Home Decor",
         "popularity": 4.3,
@@ -213,7 +213,7 @@
     {
         "id": 22,
         "name": "Electric Kettle",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://img.freepik.com/premium-photo/blue-background-with-vintage-electric-retro-kettle-lifestyle-design-theme_908985-38787.jpg",
         "price": 39.99,
         "category": "Home Appliances",
         "popularity": 4.6,
@@ -253,7 +253,7 @@
     {
         "id": 26,
         "name": "Leather Messenger Bag",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://thumbs.dreamstime.com/b/orange-white-leather-messenger-bag-green-screen-sitting-floor-near-background-crafted-precision-dark-light-283120863.jpg",
         "price": 129.99,
         "category": "Accessories",
         "popularity": 4.4,
@@ -263,7 +263,7 @@
     {
         "id": 27,
         "name": "Outdoor Picnic Blanket",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://www.shutterstock.com/image-photo/closeup-white-wall-clock-set-600nw-2109762983.jpg",
         "price": 34.99,
         "category": "Sports",
         "popularity": 4.3,
@@ -273,7 +273,7 @@
     {
         "id": 28,
         "name": "Customizable Wall Clock",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://st5.depositphotos.com/34708688/65224/i/450/depositphotos_652245008-stock-photo-clock-face-wall-time-number.jpg",
         "price": 49.99,
         "category": "Home Decor",
         "popularity": 4.2,
@@ -333,7 +333,7 @@
     {
         "id": 34,
         "name": "Portable Cooler",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://png.pngtree.com/thumb_back/fh260/background/20230519/pngtree-an-upright-travel-air-cooler-on-a-yellow-background-image_2655242.jpg",
         "price": 79.99,
         "category": "Sports",
         "popularity": 4.5,

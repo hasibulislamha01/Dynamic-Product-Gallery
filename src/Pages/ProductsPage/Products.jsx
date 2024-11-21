@@ -48,7 +48,7 @@ const Products = () => {
     console.log('price order, popularity order', priceOrder, popularityOrder);
 
     return (
-        <div>
+        <div className=''>
             <h1 className='text-2xl md:text-3xl lg:text-5xl font-bold text-center py-6 md:py-10'>Products</h1>
 
             <div>
@@ -75,24 +75,26 @@ const Products = () => {
             </div>
 
 
-            {
-                displayableProducts.length !== 0 ?
-                    <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-items-center justify-items-center gap-4 md:gap-6'>
-                        {
-                            displayableProducts?.map(product =>
-                                <ProductCard
-                                    key={product.id}
-                                    product={product}
-                                />
-                            )
-                        }
-                    </div>
-                    :
-                    <div className='mt-12 space-y-4 text-center italic'>
-                        <h1 className='font-bold text-3xl  text-slate-800'>No Products Found</h1>
-                        <p className='font-semibold'>Try searching something else</p>
-                    </div>
-            }
+            <div className='mt-12 mb-20'>
+                {
+                    displayableProducts.length !== 0 ?
+                        <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-items-center justify-items-center gap-4 md:gap-6'>
+                            {
+                                displayableProducts?.map(product =>
+                                    <ProductCard
+                                        key={product.id}
+                                        product={product}
+                                    />
+                                )
+                            }
+                        </div>
+                        :
+                        <div className='mt-12 space-y-4 text-center italic'>
+                            <h1 className='font-bold text-3xl  text-slate-800'>No Products Found</h1>
+                            <p className='font-semibold'>Try searching something else</p>
+                        </div>
+                }
+            </div>
         </div>
     );
 };

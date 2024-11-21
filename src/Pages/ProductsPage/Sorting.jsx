@@ -80,6 +80,7 @@ const Sorting = ({ setPriceOrder, setPopularityOrder, priceOrder, popularityOrde
                     placeholder='Sort by '
                     styles={customStyles}
                     onChange={handleSorting}
+                    className='w-48'
                 ></Select>
 
             }
