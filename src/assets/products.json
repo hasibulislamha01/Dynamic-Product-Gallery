@@ -9,16 +9,7 @@
         "description": "Genuine leather wallet with multiple card slots and a sleek design.",
         "ratings": 320
     },
-    {
-        "id": 2,
-        "name": "Gaming Mouse",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGENQfysRcNpGrsHt1xOa1gui3liXl9py9A&s",
-        "price": 79.99,
-        "category": "Accessories",
-        "popularity": 4.6,
-        "description": "Ergonomic gaming mouse with customizable buttons and RGB lighting.",
-        "ratings": 150
-    },
+    
     {
         "id": 3,
         "name": "Men's T-shirt",
@@ -48,6 +39,16 @@
         "popularity": 4.3,
         "description": "Soft and warm hoodie perfect for casual outings.",
         "ratings": 160
+    },
+    {
+        "id": 2,
+        "name": "Gaming Mouse",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGENQfysRcNpGrsHt1xOa1gui3liXl9py9A&s",
+        "price": 79.99,
+        "category": "Accessories",
+        "popularity": 4.6,
+        "description": "Ergonomic gaming mouse with customizable buttons and RGB lighting.",
+        "ratings": 150
     },
     {
         "id": 6,
